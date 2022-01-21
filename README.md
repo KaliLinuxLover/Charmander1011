@@ -1,7 +1,13 @@
-Yo im Alex \n
+Yo im Alex
+
 16
+
 FL
+
+
 C++ Overlay dev
+
+
 Currently learning how to use AMD encryption in replacement for -NI
 <!---
 Charmander1011/Charmander1011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
